@@ -1,4 +1,4 @@
-#ideas collected at #genalyze
+#ideas collected at #gentoo-genalyze
 mingdao:
     http://koltsoff.com/pub/ures/ 
         nice memory analysis utility in python. as everyone has python thanks to portage,
